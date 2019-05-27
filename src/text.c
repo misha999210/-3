@@ -5,4 +5,5 @@
 #include <string.h>
 
 void attention() { printf("Please, enter 'circle(x,y,r)'\n"); }
+void type() { printf("Type of Figure: "); }
 
