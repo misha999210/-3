@@ -1,0 +1,8 @@
+#include "text.h"
+#include <math.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+void attention() { printf("Please, enter 'circle(x,y,r)'\n"); }
+
