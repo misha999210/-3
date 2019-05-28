@@ -5,9 +5,7 @@
 #include <iostream>
 #include <string>
 #include "text.h"
-
 using namespace std;
-
 int readin(char* h, int i, char el) {
 	int k = 0, coor;
 	char ch[100];
@@ -58,7 +56,6 @@ int main() {
 
 			type();
 			puts(f1);
-			printf("%d - X\n%d - Y\n%d - R\n", x, y, r);
 			printf("Area = %.4f\n", s);
 			printf("Perimeter= %.4f\n", p);
 
