@@ -1,6 +1,5 @@
-*.[oa]
-
-*~
-
+*.o
 *.swp
-!makefile
+bin/*.exe
+
+
